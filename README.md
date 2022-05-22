@@ -21,6 +21,7 @@ Censo Demográfico
             SE idade entre 18 e 35
                 contPer = contPer + 1
             FIM SE
+            medGeral += idade
         FIM PARA
         ESCREVA(Media de idade)
         ESCREVA(Media da altura das mulheres)
