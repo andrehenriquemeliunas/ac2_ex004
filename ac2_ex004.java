@@ -42,10 +42,3 @@ public class ac2_ex004{
         s.close();//Fecha o scanner
     }
 }
-
-
-//a) média da idade do grupo;
-//b) média da altura das mulheres; FEITO
-//c) média da idade dos homens; FEITO
-//d) quantidade de pessoas que identificaram como outros;FEITO
-//e) percentual de pessoas com idade entre 18 e 35 anos (inclusive).FEITO
