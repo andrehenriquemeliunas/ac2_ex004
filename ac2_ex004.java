@@ -6,7 +6,7 @@ public class ac2_ex004{
 
         Scanner s = new Scanner( System.in);//Inicia o scanner
 
-        for(int i=0; i<10; i++){//Início laço de repetição
+        for(int i=0; i<1000; i++){//Início laço de repetição
             
             System.out.print("Sexo (0-Fem / 1-Masc /2-Outro): ");//Print para perguntar o sexo
             sexo = s.nextInt();//Armazena a resposta
